@@ -1,4 +1,4 @@
-# SOLCIÓN
+# SOLUCIÓN
 
 SOlución al test
 
